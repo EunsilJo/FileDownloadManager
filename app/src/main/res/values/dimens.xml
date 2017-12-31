@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Common-->
+    <dimen name="common_margin">30dp</dimen>
+    <dimen name="common_margin_15">15dp</dimen>
+    <dimen name="common_margin_5">5dp</dimen>
+
+    <dimen name="common_icon_size">24dp</dimen>
+    <dimen name="common_target_size">48dp</dimen>
+    <dimen name="common_item_width">200dp</dimen>
+    <dimen name="common_item_height">44dp</dimen>
+    <dimen name="common_progressbar_width">10dp</dimen>
+    <dimen name="common_progressbar_width_3">3dp</dimen>
+
+    <!-- Text Size -->
+    <dimen name="text_micro">10sp</dimen>
+    <dimen name="text_small">12sp</dimen>
+    <dimen name="text_medium">14sp</dimen>
+    <dimen name="text_large">15sp</dimen>
+</resources>

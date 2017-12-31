@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">FileDownloadManager</string>
+    <string name="refresh">Refresh</string>
+    <string name="check">Check</string>
+    <string name="check_desc_start">Check start</string>
+    <string name="check_desc_ing">Checking...</string>
+    <string name="check_desc_end">material-design-icons.zip\nfile size: %1$s</string>
+    <string name="check_desc_error">Check error</string>
+    <string name="download">Download</string>
+    <string name="download_desc_start">Download start</string>
+    <string name="download_desc_ing">Downloading... %1$d%%</string>
+    <string name="download_desc_end">Download complete</string>
+    <string name="download_desc_error">Download error</string>
+    <string name="unzip">Unzip</string>
+    <string name="unzip_desc_start">Unzip start</string>
+    <string name="unzip_desc_ing">Unzipping... %1$d files</string>
+    <string name="unzip_desc_end">Unzip complete</string>
+    <string name="unzip_desc_error">Unzip error</string>
+    <string name="toast_error">Error</string>
+    <string name="toast_error_not_enough_storage">Error - storage not enough</string>
+    <string name="toast_error_not_found">Error - file not found</string>
+</resources>
